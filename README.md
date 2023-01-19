@@ -1,6 +1,8 @@
 # generate-vpn-cert
 Generate Client VPN certs for Mutual authentication
 
+Commands:
+
 git clone https://github.com/ssomishetti/generate-vpn-cert
 
 cd generate-vpn-cert
