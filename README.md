@@ -6,5 +6,6 @@ git clone https://github.com/ssomishetti/generate-vpn-cert
 cd generate-vpn-cert
 
 chmod 755 generate_certs.sh
+
 ./generate_certs.sh
 
